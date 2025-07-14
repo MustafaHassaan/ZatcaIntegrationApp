@@ -1,0 +1,13 @@
+BouncyCastle.Crypto.dll
+IKVM.ByteCode.dll
+Microsoft.Extensions.DependencyModel.dll
+Newtonsoft.Json.dll
+saxon.dll
+System.Data.Odbc.dll
+System.IO.Pipelines.dll
+System.Security.Cryptography.Pkcs.dll
+System.Security.Cryptography.Xml.dll
+xerces.dll
+Zatca.EInvoice.SDK.Contracts.dll
+Zatca.EInvoice.SDK.dll
+Zatca.EInvoice.SDK.Saxon.dll

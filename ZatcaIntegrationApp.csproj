@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto">
+      <HintPath>..\SDK\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.ByteCode">
+      <HintPath>..\SDK\IKVM.ByteCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyModel">
+      <HintPath>..\SDK\Microsoft.Extensions.DependencyModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\SDK\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="saxon">
+      <HintPath>..\SDK\saxon.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.Odbc">
+      <HintPath>..\SDK\System.Data.Odbc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipelines">
+      <HintPath>..\SDK\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Pkcs">
+      <HintPath>..\SDK\System.Security.Cryptography.Pkcs.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Xml">
+      <HintPath>..\SDK\System.Security.Cryptography.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="xerces">
+      <HintPath>..\SDK\xerces.dll</HintPath>
+    </Reference>
+    <Reference Include="Zatca.EInvoice.SDK">
+      <HintPath>..\SDK\Zatca.EInvoice.SDK.dll</HintPath>
+    </Reference>
+    <Reference Include="Zatca.EInvoice.SDK.Contracts">
+      <HintPath>..\SDK\Zatca.EInvoice.SDK.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="Zatca.EInvoice.SDK.Saxon">
+      <HintPath>..\SDK\Zatca.EInvoice.SDK.Saxon.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
