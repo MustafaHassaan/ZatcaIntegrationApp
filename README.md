@@ -34,3 +34,14 @@ An advanced integration app built on .NET Core 8 that facilitates full interacti
 
 ```bash
 dotnet run
+
+
+📚 Technical Notes
+App is designed exclusively for .NET Core 8 (not compatible with .NET Framework)
+
+Easily extendable to cover the Clearance phase or archive solutions
+
+Adaptable for use in Web APIs, microservices, or cloud-hosted functions
+
+✨ Author
+Developed by Mustafa Hassaan
