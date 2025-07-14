@@ -32,16 +32,13 @@ An advanced integration app built on .NET Core 8 that facilitates full interacti
    - Construct and send the POST request to ZATCA
    - Display the result and any business rule warnings
 
-```bash
-dotnet run
 
-
-📚 Technical Notes
+## 📚 Technical Notes
 App is designed exclusively for .NET Core 8 (not compatible with .NET Framework)
 
 Easily extendable to cover the Clearance phase or archive solutions
 
 Adaptable for use in Web APIs, microservices, or cloud-hosted functions
 
-✨ Author
+## ✨ Author
 Developed by Mustafa Hassaan
